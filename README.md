@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a teenager currently trying out coding because it seems interesting, I've always been a fan of computers so speaking its language feels like a must.
 
 <!--
 **HAGframework/HAGframework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
